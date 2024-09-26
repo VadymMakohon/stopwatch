@@ -22,7 +22,7 @@ JavaScript (ES6+): Implements the core stopwatch logic, ensuring high performanc
 
 ## Github repo
 
-This is the [link](https://github.com/VadymMakohon/) to the Github repo of the project
+This is the [link](https://github.com/VadymMakohon/stopwatch) to the Github repo of the project
 
 ## Sample Website
 
