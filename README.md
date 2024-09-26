@@ -3,6 +3,7 @@
 A simple yet highly accurate stopwatch built with vanilla JavaScript. This stopwatch application features a clean and minimalistic user interface, ensuring ease of use while delivering precise time tracking functionality. The design focuses on simplicity and efficiency, allowing users to easily start, pause, and reset the stopwatch, making it ideal for everyday tasks, fitness, or time management activities.
 
 ### Demo Screeshots
+![preview](https://github.com/user-attachments/assets/68f64cb2-c8f1-47ad-98f0-796de60515ae)
 
 ## Feature
 
